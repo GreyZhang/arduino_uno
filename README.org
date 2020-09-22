@@ -2,6 +2,6 @@
 这是我自己修炼Arduino UNO 的学习记录，并不是一个具有明确导向的学习教程。观者可以参考，千万不要全部照搬以免被我带偏！
 
 * 学习记录
-** [[https://greyzhang.blog.csdn.net/article/details/108739922][405_Arduino BootLoader实现代码阅读]]
-- code: 01_bootloader
+- [[https://greyzhang.blog.csdn.net/article/details/108739922][405_Arduino BootLoader实现代码阅读]]
+code: 01_bootloader
 
