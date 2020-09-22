@@ -4,4 +4,7 @@
 * 学习记录
 - [[https://greyzhang.blog.csdn.net/article/details/108739922][405_Arduino BootLoader实现代码阅读]]
 code: 01_bootloader
+- [[https://greyzhang.blog.csdn.net/article/details/108743570][406_Arduino EEPROM存储清空例程分析]]
+code: 直接来自于例程，暂且不传了。
+
 
