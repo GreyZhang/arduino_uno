@@ -18,3 +18,4 @@ code: 02_srec_parsor
 - [[https://greyzhang.blog.csdn.net/article/details/110449962][468_Arduino生成ASCII码表]]
 - [[https://greyzhang.blog.csdn.net/article/details/110568386][469_Arduino超声波距离传感器例程调试]]
 - [[https://greyzhang.blog.csdn.net/article/details/110673742][470_Arduino LCD驱动初步]]
+- [[https://greyzhang.blog.csdn.net/article/details/110678981][471_Arduino初始化以及loop的实现]]
