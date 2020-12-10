@@ -22,3 +22,4 @@ code: 02_srec_parsor
 - [[https://greyzhang.blog.csdn.net/article/details/110732122][472_Arduino setup之前的工作分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/110846386][473_Arduino.h内容分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/110879908][474_Arduino中二进制的标识实现分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/110996923][476_Arduino abi.cpp文件内容分析]]
