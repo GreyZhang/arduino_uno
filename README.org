@@ -24,3 +24,4 @@ code: 02_srec_parsor
 - [[https://greyzhang.blog.csdn.net/article/details/110879908][474_Arduino中二进制的标识实现分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/110996923][476_Arduino abi.cpp文件内容分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/111053498][477_Arduino以太网板盾功能测试]]
+- [[https://greyzhang.blog.csdn.net/article/details/111057716][478_Arduino telnet连接测试]]
